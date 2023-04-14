@@ -19,7 +19,7 @@ bot.on('ready', async () => {
   Version : ${package.version}
 
   There's no need to do something. invite a user, get its "token" by this tutorial :
-  
+  https://github.com/TheKawasaki/discord-dm-ads-detect/tree/main#get-token-
   then put it in config.json.
   also include a valid webhook link in that file.
   `)
