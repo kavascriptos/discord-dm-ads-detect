@@ -6,7 +6,7 @@
 ### Requirements :
 - latest [Node.js](https://nodejs.org)
 - little knowledge about javascript
-- a Discord USER token. (tutorial [below](#get-token))
+- a Discord USER token. (tutorial [below](#get-token-))
 
 
 
