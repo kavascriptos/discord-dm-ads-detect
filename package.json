@@ -1,7 +1,7 @@
 {
   "name": "discord-dm-ads-detect",
   "version": "1.0.0",
-  "description": "a Discord selfbot to detect DMers and report them by Webhook",
+  "description": "A selfbot for detecting who sends invite links to your users",
   "main": "index.js",
   "scripts": {},
   "repository": {
