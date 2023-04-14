@@ -1,0 +1,25 @@
+{
+  "name": "discord-dm-ads-detect",
+  "version": "1.0.0",
+  "description": "a Discord selfbot to detect DMers and report them by Webhook",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheKawasaki/discord-dm-ads-detect.git"
+  },
+  "keywords": [
+    "DM",
+    "SPAM",
+    "discord spam"
+  ],
+  "author": "Thekawasaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheKawasaki/discord-dm-ads-detect/issues"
+  },
+  "homepage": "https://github.com/TheKawasaki/discord-dm-ads-detect#readme",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.13.2"
+  }
+}
