@@ -1,4 +1,5 @@
-## 😃 About this source
+## ⚠️ Project Discontinued.
+## 😃 About this script
 
 <strong>A selfbot for detecting who sends invite links to your users</strong>
 
@@ -69,5 +70,5 @@ node .
 
 
 
-# By Thekawasaki. Feel free to copy, paste, use and change.
+# By kavascriptos. Feel free to copy, paste, use and change.
 ## ⭐ Don't forget to star!
